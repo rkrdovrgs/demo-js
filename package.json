@@ -1,0 +1,23 @@
+{
+  "name": "free-code-camp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkrdovrgs/free-code-camp.git"
+  },
+  "author": "rkrdo.vrgs@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkrdovrgs/free-code-camp/issues"
+  },
+  "homepage": "https://github.com/rkrdovrgs/free-code-camp#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
