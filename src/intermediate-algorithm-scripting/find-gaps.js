@@ -1,3 +1,8 @@
+/**
+ * Finds the gaps between selected reanges
+ * @param {Array<{from: number, to: number}>} ranges the list of already selected ranges
+ * @returns {Array<{from: number, to:number}>} the list of gaps between ranges
+ */
 function findGaps(ranges) {
     const blocks = new Array(101);
     ranges.forEach(r => {
