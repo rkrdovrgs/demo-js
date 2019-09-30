@@ -3,7 +3,7 @@ const { expect } = require('chai');
 /**
  * Convert from Celsius to Fahrenheit
  * @param {number} celsius representing a temperature in Celsius
- * @returns {number} the temperature in Farenheits
+ * @returns {number} the temperature in Fahrenheits
  */
 function convertToF(celsius) {
     return (celsius * 9 / 5) + 32;
