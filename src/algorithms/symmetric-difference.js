@@ -28,7 +28,7 @@ function sym(...args) {
         }
 
         return arr;
-    }, []);;
+    }, []);
 }
 
 describe('Find the Symmetric Difference', function () {
